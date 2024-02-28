@@ -1,0 +1,12 @@
+D:\Bureau\BTS SIO\MERCY - 1\Banque\Banque\bin\Release\Banque.exe.config
+D:\Bureau\BTS SIO\MERCY - 1\Banque\Banque\bin\Release\Banque.exe
+D:\Bureau\BTS SIO\MERCY - 1\Banque\Banque\bin\Release\Banque.pdb
+D:\Bureau\BTS SIO\MERCY - 1\Banque\Banque\obj\Release\Banque.exe
+D:\Bureau\BTS SIO\MERCY - 1\Banque\Banque\obj\Release\Banque.pdb
+C:\Users\maeva\OneDrive\Bureau\Banque\Banque\bin\Release\Banque.exe.config
+C:\Users\maeva\OneDrive\Bureau\Banque\Banque\bin\Release\Banque.exe
+C:\Users\maeva\OneDrive\Bureau\Banque\Banque\bin\Release\Banque.pdb
+C:\Users\maeva\OneDrive\Bureau\Banque\Banque\obj\Release\Banque.csprojAssemblyReference.cache
+C:\Users\maeva\OneDrive\Bureau\Banque\Banque\obj\Release\Banque.csproj.CoreCompileInputs.cache
+C:\Users\maeva\OneDrive\Bureau\Banque\Banque\obj\Release\Banque.exe
+C:\Users\maeva\OneDrive\Bureau\Banque\Banque\obj\Release\Banque.pdb

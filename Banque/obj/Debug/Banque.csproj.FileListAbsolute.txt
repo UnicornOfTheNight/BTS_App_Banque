@@ -1,0 +1,47 @@
+E:\Matière info\SI4\Algos\Pas Montrer\Banque\Banque\bin\Debug\Banque.exe.config
+E:\Matière info\SI4\Algos\Pas Montrer\Banque\Banque\bin\Debug\Banque.exe
+E:\Matière info\SI4\Algos\Pas Montrer\Banque\Banque\bin\Debug\Banque.pdb
+E:\Matière info\SI4\Algos\Pas Montrer\Banque\Banque\obj\Debug\Banque.csprojResolveAssemblyReference.cache
+E:\Matière info\SI4\Algos\Pas Montrer\Banque\Banque\obj\Debug\Banque.exe
+E:\Matière info\SI4\Algos\Pas Montrer\Banque\Banque\obj\Debug\Banque.pdb
+J:\Matière info\SI4\Algos\Pas Montrer\Banque\Banque\bin\Debug\Banque.exe.config
+J:\Matière info\SI4\Algos\Pas Montrer\Banque\Banque\bin\Debug\Banque.exe
+J:\Matière info\SI4\Algos\Pas Montrer\Banque\Banque\bin\Debug\Banque.pdb
+J:\Matière info\SI4\Algos\Pas Montrer\Banque\Banque\obj\Debug\Banque.csprojResolveAssemblyReference.cache
+J:\Matière info\SI4\Algos\Pas Montrer\Banque\Banque\obj\Debug\Banque.csproj.CoreCompileInputs.cache
+J:\Matière info\SI4\Algos\Pas Montrer\Banque\Banque\obj\Debug\Banque.exe
+J:\Matière info\SI4\Algos\Pas Montrer\Banque\Banque\obj\Debug\Banque.pdb
+E:\Matière info\SI4\Algos\2 semestre\Banque\Banque\bin\Debug\Banque.exe.config
+E:\Matière info\SI4\Algos\2 semestre\Banque\Banque\obj\Debug\Banque.exe
+E:\Matière info\SI4\Algos\2 semestre\Banque\Banque\obj\Debug\Banque.pdb
+E:\Matière info\SI4\Algos\Semestre 2\Banque\Banque\bin\Debug\Banque.exe.config
+E:\Matière info\SI4\Algos\Semestre 2\Banque\Banque\obj\Debug\Banque.exe
+E:\Matière info\SI4\Algos\Semestre 2\Banque\Banque\obj\Debug\Banque.pdb
+E:\Matière info\SI4\Algos\Semestre 2\Banque\Banque\bin\Debug\Banque.exe
+E:\Matière info\SI4\Algos\Semestre 2\Banque\Banque\bin\Debug\Banque.pdb
+E:\Matière info\SI4\Algos\Semestre 2\Banque\Banque\obj\Debug\Banque.csprojResolveAssemblyReference.cache
+E:\Nouveau dossier (3)\Nouveau dossier\Matières informatiques\SI4\Algos\Semestre 2\Banque\Banque\bin\Debug\Banque.exe.config
+E:\Nouveau dossier (3)\Nouveau dossier\Matières informatiques\SI4\Algos\Semestre 2\Banque\Banque\obj\Debug\Banque.exe
+E:\Nouveau dossier (3)\Nouveau dossier\Matières informatiques\SI4\Algos\Semestre 2\Banque\Banque\obj\Debug\Banque.pdb
+E:\Nouveau dossier (3)\Nouveau dossier\Matières informatiques\SI4\Algos\Semestre 2\Banque\Banque\bin\Debug\Banque.exe
+E:\Nouveau dossier (3)\Nouveau dossier\Matières informatiques\SI4\Algos\Semestre 2\Banque\Banque\bin\Debug\Banque.pdb
+E:\Nouveau dossier (3)\Nouveau dossier\Matières informatiques\SI4\Algos\Semestre 2\Banque\Banque\obj\Debug\Banque.csprojResolveAssemblyReference.cache
+C:\Users\Maeva\Desktop\Banque\Banque\bin\Debug\Banque.exe.config
+C:\Users\Maeva\Desktop\Banque\Banque\bin\Debug\Banque.exe
+C:\Users\Maeva\Desktop\Banque\Banque\bin\Debug\Banque.pdb
+C:\Users\Maeva\Desktop\Banque\Banque\obj\Debug\Banque.csprojResolveAssemblyReference.cache
+C:\Users\Maeva\Desktop\Banque\Banque\obj\Debug\Banque.csproj.CoreCompileInputs.cache
+C:\Users\Maeva\Desktop\Banque\Banque\obj\Debug\Banque.exe
+C:\Users\Maeva\Desktop\Banque\Banque\obj\Debug\Banque.pdb
+C:\Users\User SLAM\Desktop\Banque\Banque\bin\Debug\Banque.exe.config
+C:\Users\User SLAM\Desktop\Banque\Banque\obj\Debug\Banque.exe
+C:\Users\User SLAM\Desktop\Banque\Banque\obj\Debug\Banque.pdb
+C:\Users\User SLAM\Desktop\Banque\Banque\bin\Debug\Banque.exe
+C:\Users\User SLAM\Desktop\Banque\Banque\bin\Debug\Banque.pdb
+C:\Users\User SLAM\Desktop\Banque\Banque\obj\Debug\Banque.csprojResolveAssemblyReference.cache
+D:\Bureau\BTS SIO\MERCY - 1\Banque\Banque\bin\Debug\Banque.exe.config
+D:\Bureau\BTS SIO\MERCY - 1\Banque\Banque\bin\Debug\Banque.exe
+D:\Bureau\BTS SIO\MERCY - 1\Banque\Banque\bin\Debug\Banque.pdb
+D:\Bureau\BTS SIO\MERCY - 1\Banque\Banque\obj\Debug\Banque.csprojAssemblyReference.cache
+D:\Bureau\BTS SIO\MERCY - 1\Banque\Banque\obj\Debug\Banque.exe
+D:\Bureau\BTS SIO\MERCY - 1\Banque\Banque\obj\Debug\Banque.pdb
