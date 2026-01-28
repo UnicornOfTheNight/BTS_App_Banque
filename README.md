@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Development-yellow)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-Une application de gestion bancaire développée dans le cadre du cursus **BTS SIO** (Services Informatiques aux Organisations). Ce projet permet la gestion des clients, des comptes bancaires et des opérations courantes via une interface graphique.
+Une application de gestion bancaire développée dans le cadre du cursus **BTS SIO** (Services Informatiques aux Organisations). Ce projet permet la gestion des clients, des comptes bancaires et des opérations courantes via une console.
 
 ## 📋 Table des Matières
 
